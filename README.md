@@ -12,6 +12,8 @@ The data set included is based on 2014 ACS from the [US Census Bureau](https://d
 ### Objective:
 Create a scatter plot between two of the data variables such as Healthcare vs. Poverty or Smokers vs. Age using D3 techniques.
 
+![Screenshot (105)](https://user-images.githubusercontent.com/70812263/108600391-153ad380-7365-11eb-8be8-066bcdc7f851.png)
+
 ### Technologies:
 * D3
 * HTML
